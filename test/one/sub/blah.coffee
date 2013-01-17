@@ -1,3 +1,2 @@
 $(document).ready ->
 	alert 'ohai!'
-	()
