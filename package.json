@@ -1,6 +1,6 @@
 {
   "name": "grind",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Compile your caffeinated languages.",
   "bin": "./lib/grind.js",
   "engines": {
