@@ -1,0 +1,8 @@
+{
+	"paths": [
+		"src/firstFile.js",
+		"src/secondFile.coffee",
+		"src/anotherFolder",
+		"src/somethingElse.coffee"
+	]
+}

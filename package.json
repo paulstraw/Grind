@@ -1,0 +1,33 @@
+{
+  "name": "grind",
+  "version": "0.1.0",
+  "description": "Compile your caffeinated languages.",
+  "bin": "./lib/grind.js",
+  "engines": {
+    "node": "~0.8.17"
+  },
+  "dependencies": {
+    "uglify-js": "~2.2.3",
+    "jshint": "~0.9.1",
+    "underscore": "~1.4.3",
+    "coffee-script": "~1.4.0",
+    "async": "~0.1.22",
+    "cli-color": "~0.2.1"
+  },
+  "scripts": {
+    "test": "node test/run-tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paulstraw/Grind.git"
+  },
+  "keywords": [
+    "coffeescript",
+    "javascript",
+    "build",
+    "compile"
+  ],
+  "bugs": "https://github.com/paulstraw/Grind/issues",
+  "author": "Paul Straw",
+  "license": "MIT"
+}

@@ -1,0 +1,1 @@
+alert("hello"),alert("world!"),function(){$(document).ready(function(){return alert("ohai!")})}.call(this),console.log("bar!"),console.log("bar-nosemicolon!"),console.log("foo!"),console.log("baz!");

@@ -1,0 +1,11 @@
+{
+	"paths": [
+		"thingOne.js",
+		"thingTwo.js",
+		"sub/blah.coffee",
+		"sub2",
+		"notthere.js"
+	],
+	"before": "echo 'hi!'",
+	"after": "echo 'bye!'"
+}
