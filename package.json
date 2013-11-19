@@ -1,10 +1,10 @@
 {
   "name": "grind",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Compile your caffeinated languages.",
   "bin": "./lib/grind.js",
   "engines": {
-    "node": "~0.8.17"
+    "node": "~0.10.22"
   },
   "dependencies": {
     "uglify-js": "~2.2.3",
